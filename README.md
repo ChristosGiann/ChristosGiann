@@ -6,4 +6,3 @@
 
 ## Σύνδεσμοι
 - [LinkedIn](https://www.linkedin.com/in/christos-giannavartzis-3b8280290/)
-- [GitHub](https://github.com/ChristosGiann)
