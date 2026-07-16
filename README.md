@@ -1,4 +1,4 @@
-**Web Developer | Game Developer | MSc in Game Development**
+**Game Developer | Web Developer | MSc in Game Development**
 
 Web Developer professionally, with a specialization in Unity game development. I build web applications, gameplay systems and technical prototypes, with a particular interest in game AI, player-facing systems and interactive software.
 
