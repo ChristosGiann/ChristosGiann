@@ -49,7 +49,7 @@ A thesis-related Unity research prototype exploring reinforcement learning and d
 
 ---
 
-Playable Games
+### Playable Games
 Adventure Quiz Game
 
 A completed 3D educational quiz game developed as a Unity technical assignment.
