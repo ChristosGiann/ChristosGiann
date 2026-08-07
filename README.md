@@ -49,29 +49,32 @@ A thesis-related Unity research prototype exploring reinforcement learning and d
 
 ---
 
-Playable Games
-Adventure Quiz Game
+## Playable Games
+
+### [Adventure Quiz Game](https://chrisgian.itch.io/quiz-game-for-kids)
 
 A completed 3D educational quiz game developed as a Unity technical assignment.
 
-Unity · C# · WebGL · ScriptableObjects · Cinemachine
+**Unity · C# · WebGL · ScriptableObjects · Cinemachine**
 
-Third-person exploration and object interaction
-Data-driven multiple-choice quiz system
-Score and mistake tracking
-Victory and defeat flow
-View source code on GitHub
-Escape From It
+- Third-person exploration and object interaction
+- Data-driven multiple-choice quiz system
+- Score and mistake tracking
+- Victory and defeat flow
+
+---
+
+### [Escape From It](https://chrisgian.itch.io/escape-from-it)
 
 A completed first-person maze escape game with stamina management, key collection and two difficulty modes.
 
-Unity · C# · CharacterController · TextMesh Pro
+**Unity · C# · CharacterController · TextMesh Pro**
 
-First-person movement and mouse look
-Sprinting and regenerating stamina
-Easy and Hardcore game modes
-Key-based exit requirements
-View source code on GitHub
-Current Focus
+- First-person movement and mouse look
+- Sprinting and regenerating stamina
+- Easy and Hardcore game modes
+- Key-based exit requirements
+
+## Current Focus
 
 I am continuing to strengthen my web-development portfolio while developing deeper knowledge of software architecture, backend systems, algorithms and game-development systems.
